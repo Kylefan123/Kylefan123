@@ -90,14 +90,6 @@ I am focused on becoming a strong software engineer who can build reliable, usef
 
 ---
 
-## 📊 GitHub Stats
-
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kylefan123\&show_icons=true\&hide_border=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kylefan123\&layout=compact\&hide_border=true\&theme=default)
-
----
-
 ## 🤝 Connect
 
 * **LinkedIn:** [Kyle Theodore](https://www.linkedin.com/in/kyle-theodore-4572271a8/)
